@@ -626,6 +626,10 @@ video {
   height: 100%;
 }
 
+.h-12 {
+  height: 3rem;
+}
+
 .w-0 {
   width: 0px;
 }
@@ -974,11 +978,6 @@ video {
   line-height: 1.75rem;
 }
 
-.text-9xl {
-  font-size: 8rem;
-  line-height: 1;
-}
-
 .font-extralight {
   font-weight: 200;
 }
@@ -1243,6 +1242,10 @@ and (max-width : 810px) {
     margin-top: 1.25rem;
   }
 
+  .md\:h-24 {
+    height: 6rem;
+  }
+
   .md\:w-5\/6 {
     width: 83.333333%;
   }
@@ -1392,6 +1395,11 @@ and (max-width : 810px) {
     font-size: 3.75rem;
     line-height: 1;
   }
+
+  .ipad\:text-7xl {
+    font-size: 4.5rem;
+    line-height: 1;
+  }
 }
 
 @media (min-width: 1024px) {
@@ -1539,11 +1547,6 @@ and (max-width : 810px) {
 
   .lg\:text-8xl {
     font-size: 6rem;
-    line-height: 1;
-  }
-
-  .lg\:text-9xl {
-    font-size: 8rem;
     line-height: 1;
   }
 }
