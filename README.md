@@ -1,7 +1,7 @@
 
-# e.g.Blockchain
+# e.g.Blockchain Bank
 
-e.g.Blockchain is a website i made to expand my portfolio, it was built using tailwind, all code was made by me but the design was made by Cristian Muñoz
+e.g.Blockchain Bank is a website i made to expand my portfolio, it was built using tailwind, all code was made by me but the design was made by Cristian Muñoz
 
 
 ## Authors
